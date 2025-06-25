@@ -46,3 +46,20 @@ This task has helped me understand how CI/CD automation tools like GitHub Action
 - GitHub Actions
 - YAML
 - HTML
+---
+
+## 📸 SCREENSHOTS
+
+> Make sure these images are placed in the `assets/` folder.
+### 🔹 Web App File View 
+![Web App File View](assets/webapp-structure.png)
+
+### 🔹 	Workflow YAML File
+![Workflow YAML File](assets/workflow-code.png)
+
+### 🔹 GitHub Actions Workflow
+![GitHub Actions Workflow](assets/actions-running.png)
+
+
+### 🔹	Workflow Log Output
+![Workflow Log Output](assets/workflow-logs.png)
